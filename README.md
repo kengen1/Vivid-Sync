@@ -1,12 +1,12 @@
 # PX Project (PS2318) : RGB-LED Information Display System
 
-<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/9951efe0-d438-46e3-b150-dad62ade17fe" width="200" height="150" alt="home_actual"/>
+<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/965f803a-3e57-4734-9846-c69062efd913" width="200" height="150" alt="home_actual"/>
 
-<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/d45348aa-65ff-4102-8f13-d04103f2eb09" width="200" height="150" alt="request_actual"/>
+<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/1d818068-cdb4-4477-bb43-4fc7276e410c" width="200" height="150" alt="request_actual"/>
 
-<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/12ea67e1-4294-44d8-9fe9-00779ce5d7ed" width="200" height="150" alt="Demo_Screenshot2"/>
+<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/ebb1c0bf-43c1-46be-a5fd-f8bad88c22d0" width="200" height="150" alt="Demo_Screenshot2"/>
 
-<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/b1f29f9d-92d1-41ad-bc0c-a829a58c94d1" width="200" height="150" alt="Demo_Screenshot2"/>
+<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/75a7578d-97b3-417a-a753-385310ee8ee6" width="200" height="150" alt="Demo_Screenshot2"/>
 
 ## Notes:
 - it is suggested to use Google chrome when accessing this application to prevent any issues with display from other browsers
