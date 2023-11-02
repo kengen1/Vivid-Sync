@@ -4,7 +4,7 @@
 
 <img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/1d818068-cdb4-4477-bb43-4fc7276e410c" width="200" height="150" alt="request_actual"/>
 
-<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/ebb1c0bf-43c1-46be-a5fd-f8bad88c22d0" width="200" height="150" alt="Demo_Screenshot2"/>
+<img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/e8fae89a-dc21-4f34-b96a-edb180b1168d" width="200" height="150" alt="Demo_Screenshot2"/>
 
 <img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/75a7578d-97b3-417a-a753-385310ee8ee6" width="200" height="150" alt="Demo_Screenshot2"/>
 
