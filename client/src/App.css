@@ -1,0 +1,37 @@
+/* App.css */
+body {
+  background-color: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+input[type="file"] {
+  margin-bottom: 1rem;
+}
+
+.preview-image {
+  max-width: 300px;
+  margin-top: 1rem;
+}
+
+button {
+  background-color: #a20b32;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #a20b32;
+}
