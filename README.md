@@ -17,32 +17,63 @@
 ## How to locally run application
 
 ### React application (client)
-- cd client
-- npm install
-- npm start
+```sh
+cd client
+```
+```sh
+npm install
+```
+```sh
+npm start
+```
 - change all instances of 54.252.255.57:3001 to localhost:3001 so the client calls the server side endpoints on the correct port
 
 ### Node application (server)
-- cd server
-- npm install
-- npm index.js
+```sh
+cd server
+```
+```sh
+npm install
+```
+```sh
+npm index.js
+```
 
 
 ## How to deploy application
 - putty into EC2 instance
-- cd display_board_interface
-- git pull
-- cd client
-- npm run build
-- sudo cp -r build/* /var/www/display_board_interface
-- sudo systemctl reload nginx
-
-- cd server
-- sudo nano pingPi.js
+  ```sh
+  cd display_board_interface
+  ```
+  ```sh
+   git pull
+  ```
+  ```sh
+  cd client
+  ```
+  ```sh
+  npm run build
+  ```
+  ```sh
+  sudo cp -r build/* /var/www/display_board_interface
+  ```
+  ```sh
+  sudo systemctl reload nginx
+  ```
+  ```sh
+  cd server
+  ```
+  ```sh
+  sudo nano pingPi.js
+  ```
     - change PI_URL to raspberry pi address (right now this is just the ngrok url)
 
-- sudo nano sendPi.js
+ ```sh
+sudo nano sendPi.js
+```
     -  change PI_URL to raspberry pi address (right now this is just the ngrok url)
-- npm index.js
+```sh
+npm index.js
+```
 - once a static ip address and port forwarding rule has been estabished by IT, you can implement PM2 to have the server run as a background process
 
