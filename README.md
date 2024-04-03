@@ -1,4 +1,4 @@
-# PX Project (PS2318) : RGB-LED Information Display System
+# Vivid Sync: RGB-LED Information Display System
 
 <img src="https://github.com/kengen1/Vivid-Sync/assets/99401421/965f803a-3e57-4734-9846-c69062efd913" width="200" height="150" alt="home_actual"/>
 
@@ -68,10 +68,10 @@ npm index.js
   ```
     - change PI_URL to raspberry pi address (right now this is just the ngrok url)
 
- ```sh
-sudo nano sendPi.js
+```sh
+ sudo nano sendPi.js
 ```
-    -  change PI_URL to raspberry pi address (right now this is just the ngrok url)
+  -  change PI_URL to raspberry pi address (right now this is just the ngrok url)
 ```sh
 npm index.js
 ```
